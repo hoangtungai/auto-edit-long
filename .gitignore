@@ -1,0 +1,12 @@
+.venv/
+node_modules/
+.npm-cache/
+work/
+output/
+input/
+.DS_Store
+__pycache__/
+# media riêng của người dùng (b-roll, ảnh tham chiếu) không đưa lên repo
+media/*.mp4
+media/*.png
+.hyperframes/

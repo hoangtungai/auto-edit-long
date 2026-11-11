@@ -1,0 +1,25 @@
+{
+  "_note": "Sửa từ hay bị nghe sai. Key = cụm Whisper nghe ra (không phân biệt hoa thường), value = cụm đúng.",
+  "replace": {
+    "cloud code": "Claude Code",
+    "clock code": "Claude Code",
+    "cloud": "Claude",
+    "clo": "Claude",
+    "chat gpt": "ChatGPT",
+    "chát gpt": "ChatGPT",
+    "hyper frames": "HyperFrames",
+    "hyper frame": "HyperFrames",
+    "vibe coding": "Vibe Coding",
+    "vai coding": "Vibe Coding",
+    "vai cốt đinh": "Vibe Coding",
+    "ép em pét": "FFmpeg",
+    "ff mpeg": "FFmpeg",
+    "uýt pơ": "Whisper",
+    "giu túp": "YouTube",
+    "you tube": "YouTube",
+    "cupcut": "CapCut",
+    "cup cut": "CapCut",
+    "cap cut": "CapCut",
+    "90 %": "90%"
+  }
+}

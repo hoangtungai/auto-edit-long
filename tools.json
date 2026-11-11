@@ -1,0 +1,11 @@
+{
+  "_note": "Công cụ có logo. aliases = cách gọi trong transcript (sau glossary). entity = tên tra logo chính thức (theSVG/GitHub/favicon). Logo lưu ở media/logos/<slug>.svg",
+  "tools": [
+    {"name": "Claude", "slug": "claude", "entity": "claude", "aliases": ["claude", "claude code"]},
+    {"name": "CapCut", "slug": "capcut", "entity": "capcut", "aliases": ["capcut"]},
+    {"name": "ChatGPT", "slug": "chatgpt", "entity": "openai", "aliases": ["chatgpt", "openai"]},
+    {"name": "FFmpeg", "slug": "ffmpeg", "entity": "ffmpeg", "aliases": ["ffmpeg"]},
+    {"name": "YouTube", "slug": "youtube", "entity": "youtube", "aliases": ["youtube"]},
+    {"name": "Cursor", "slug": "cursor", "entity": "cursor", "aliases": ["cursor"]}
+  ]
+}
